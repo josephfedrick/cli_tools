@@ -1,3 +1,4 @@
+import pika
 import click
 # This function adds two numbers
 def add(x, y):
